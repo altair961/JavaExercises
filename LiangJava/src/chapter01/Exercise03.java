@@ -1,6 +1,6 @@
-package chapter1;
+package chapter01;
 
-public class Exercise3 {
+public class Exercise03 {
 
 	public static void main(String[] args) {
 		System.out.println("   J");
